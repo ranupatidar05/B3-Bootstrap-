@@ -1,0 +1,24 @@
+.r_cont{
+
+    border: 2px dashed red;
+}
+header{
+    height: 110px;
+    border: 2px dashed green; 
+    background-color: #9933cc;
+}
+main{
+    height: 1200px;
+    border: 2px dashed orange;
+    background-color: #fff;
+}
+footer{
+    height: 69px;
+    border: 2px dashed blue; 
+    background-color: #0dcaf0;
+    text-align: center;
+    
+}
+.r_tbdr{
+    border: 1px dashed #000;
+}
